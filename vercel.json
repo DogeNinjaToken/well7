@@ -1,0 +1,62 @@
+{
+  "cleanUrls": false,
+  "trailingSlash": true,
+  "rewrites": [
+    {
+      "source": "/meme/test-token/:path*",
+      "destination": "/meme/test-token/index.html"
+    },
+    {
+      "source": "/",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/pools/:path*",
+      "destination": "/pools/index.html"
+    },
+    {
+      "source": "/stocks/:path*",
+      "destination": "/stocks/index.html"
+    },
+    {
+      "source": "/vaults/:path*",
+      "destination": "/vaults/index.html"
+    },
+    {
+      "source": "/meme",
+      "destination": "/meme/index.html"
+    },
+    {
+      "source": "/meme/apply/:path*",
+      "destination": "/meme/apply/index.html"
+    },
+    {
+      "source": "/meme/admin/:path*",
+      "destination": "/meme/admin/index.html"
+    },
+    {
+      "source": "/meme/:path*",
+      "destination": "/meme/index.html"
+    },
+    {
+      "source": "/genesis/:path*",
+      "destination": "/genesis/index.html"
+    },
+    {
+      "source": "/manage/:path*",
+      "destination": "/manage/index.html"
+    },
+    {
+      "source": "/control/:path*",
+      "destination": "/control/index.html"
+    },
+    {
+      "source": "/strength/:path*",
+      "destination": "/strength/index.html"
+    },
+    {
+      "source": "/docs/:path*",
+      "destination": "/docs/index.html"
+    }
+  ]
+}

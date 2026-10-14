@@ -1,0 +1,1 @@
+window.DEEPWELL_MEME={"chainId":97,"factoryAddress":"0xC6d7E7e26faBD397Cec98776A6184043B6f8D660","feePolicyAddress":"0xEC9AB57a0a3EDB49C3007d58aF6F08195bDcc04a","wellAddress":"0xCa2c3EFf4bA37f703006b076fBcC18651dE8009c","rpcUrl":"https://bsc-testnet-dataseed.bnbchain.org","explorerUrl":"https://testnet.bscscan.com"};
